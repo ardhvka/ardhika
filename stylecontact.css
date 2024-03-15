@@ -113,7 +113,7 @@ body {
 /* handphone */
 @media (max-width: 576px) {
   html {
-    font-size: 65%;
+    font-size: 60%;
   }
   .card-text {
     max-width: 576px;
